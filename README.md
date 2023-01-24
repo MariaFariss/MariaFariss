@@ -16,7 +16,7 @@ I am a student at ENSIM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="Angular" width="40" height="40"/>&nbsp; -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;

@@ -4,7 +4,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a student at ENSIM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco, living in France.
+I am a student at ENSIM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , living in France.
 
 - 🔭 I’m currently studying at ENSIM as a Software Engineer.
 - 🌱 Exploring Technical Content Writing.
